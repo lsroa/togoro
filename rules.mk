@@ -1,7 +1,5 @@
-RGBLIGHT_ENABLE = yes    # Enable WS2812 RGB underlight.
-CONSOLE_ENABLE  = yes
+RGBLIGHT_ENABLE = no    # Enable WS2812 RGB underlight.
 LTO_ENABLE      = yes
 OLED_ENABLE     = no
 COMBO_ENABLE    = yes
-MOUSEKEY_ENABLE = yes
 VPATH += keyboards/gboards

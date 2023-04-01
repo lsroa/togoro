@@ -20,18 +20,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #pragma once
 
-//#define USE_MATRIX_I2C
-
-/* Select hand configuration */
-
-#define MASTER_LEFT
-// #define MASTER_RIGHT
-// #define EE_HAND
-
 #define COMBO_VARIABLE_LEN
 #define COMBO_TERM 100
 #define TAPPING_TERM 220
 #define TAPPING_FORCE_HOLD
 #define IGNORE_MOD_TAP_INTERRUPT
-#define TAPPING_TOGGLE 2
 
